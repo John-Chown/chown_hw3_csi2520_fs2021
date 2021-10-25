@@ -102,3 +102,45 @@ a:hover{
     color: white;
     text-shadow: black 2px 2px 2px;
 }
+
+.book{
+    float: left;
+    width: 27%;
+    text-align: center;
+    background-color: rgb(161, 0, 194);
+    border: white;
+    border-style: double;
+    font-size: 125%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.song{
+    float: left;
+    width: 35%;
+    text-align: center;
+    background-color: rgb(161, 0, 194);
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 125%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: white;
+    border-style: double;
+    margin-top: 4%;
+}
+
+.show{
+    float: left;
+    width: 27%;
+    text-align: center;
+    background-color: rgb(161, 0, 194);
+    font-size: 125%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: white;
+    border-style: double;
+    margin-top: -60px;
+}
+
+.fun_foot{
+    margin-top: 25%;
+}
